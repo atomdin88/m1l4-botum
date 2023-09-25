@@ -40,4 +40,4 @@ async def emoji(ctx):
     await ctx.send(emoji_olusturucu())
 
 
-bot.run("MTE1MzM3MTIxNTYzMzg0MjMxOQ.GUpJEy.sAZ3Iwj7B9WgZVWGaTuAQANMwZE7CHtydCxnGI")
+bot.run("token yaz.")
